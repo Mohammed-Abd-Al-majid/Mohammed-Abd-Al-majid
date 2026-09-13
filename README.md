@@ -4,21 +4,9 @@
 
 ### Software Engineer · Backend Engineering · C# / .NET
 
-<p>
-  <a href="https://github.com/Mohammed-Abd-Al-majid">
-    <img src="https://img.shields.io/badge/GitHub-Mohammed--Abd--Al--majid-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/mohammed-babiker-96b688433">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mohammed.abd.al.majid10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<p>   <a href="https://github.com/Mohammed-Abd-Al-majid">     <img src="https://img.shields.io/badge/GitHub-Mohammed--Abd--Al--majid-181717?style=for-the-badge&logo=github" alt="GitHub">   </a>   <a href="https://linkedin.com/in/mohammed-babiker-96b688433">     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">   </a>   <a href="mailto:[mohammed.abd.al.majid10@gmail.com](mailto:mohammed.abd.al.majid10@gmail.com)">     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">   </a> </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Abd-Al-majid&style=flat-square&color=blue" alt="Profile views">
-</p>
+<p>   <img src="https://komarev.com/ghpvc/?username=Mohammed-Abd-Al-majid&style=flat-square&color=blue" alt="Profile views"> </p>
 
 </div>
 
@@ -48,55 +36,23 @@ I’m particularly interested in systems where backend engineering meets **searc
 
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
-</p>
+<p>   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">   <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"> </p>
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+<p>   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> </p>
 
 ### Data & Caching
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/pgvector-1F2937?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
-  <img src="https://img.shields.io/badge/JSONB-111827?style=flat-square&logo=json&logoColor=white" alt="JSONB">
-</p>
+<p>   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">   <img src="https://img.shields.io/badge/pgvector-1F2937?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">   <img src="https://img.shields.io/badge/JSONB-111827?style=flat-square&logo=json&logoColor=white" alt="JSONB"> </p>
 
 ### AI, Search & NLP
 
-<p>
-  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square" alt="Embeddings">
-  <img src="https://img.shields.io/badge/Semantic_Search-6D28D9?style=flat-square" alt="Semantic Search">
-  <img src="https://img.shields.io/badge/Hybrid_Retrieval-4C1D95?style=flat-square" alt="Hybrid Retrieval">
-  <img src="https://img.shields.io/badge/Reranking-312E81?style=flat-square" alt="Reranking">
-  <img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/LLM_Integration-1D4ED8?style=flat-square" alt="LLM Integration">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Arabic_NLP-0369A1?style=flat-square" alt="Arabic NLP">
-</p>
+<p>   <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square" alt="Embeddings">   <img src="https://img.shields.io/badge/Semantic_Search-6D28D9?style=flat-square" alt="Semantic Search">   <img src="https://img.shields.io/badge/Hybrid_Retrieval-4C1D95?style=flat-square" alt="Hybrid Retrieval">   <img src="https://img.shields.io/badge/Reranking-312E81?style=flat-square" alt="Reranking">   <img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square" alt="RAG">   <img src="https://img.shields.io/badge/LLM_Integration-1D4ED8?style=flat-square" alt="LLM Integration">   <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square" alt="Prompt Engineering">   <img src="https://img.shields.io/badge/Arabic_NLP-0369A1?style=flat-square" alt="Arabic NLP"> </p>
 
 ### Engineering & DevOps
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
-  <img src="https://img.shields.io/badge/Reverse_Proxy-111827?style=flat-square&logo=nginx&logoColor=white" alt="Reverse Proxy">
-</p>
+<p>   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">   <img src="https://img.shields.io/badge/Reverse_Proxy-111827?style=flat-square&logo=nginx&logoColor=white" alt="Reverse Proxy"> </p>
 
 ---
 
@@ -217,8 +173,7 @@ It supports short-link creation and management, ownership and guest-user flows, 
 
 ## 🧠 Areas I'm Exploring
 
-<details>
-<summary>🔍 Search & Information Retrieval</summary>
+<details> <summary>🔍 Search & Information Retrieval</summary>
 
 * Embeddings
 * Semantic search
@@ -231,8 +186,7 @@ It supports short-link creation and management, ownership and guest-user flows, 
 
 </details>
 
-<details>
-<summary>🤖 AI Engineering</summary>
+<details> <summary>🤖 AI Engineering</summary>
 
 * LLM integration
 * Prompt engineering
@@ -244,8 +198,7 @@ It supports short-link creation and management, ownership and guest-user flows, 
 
 </details>
 
-<details>
-<summary>⚙️ Backend Engineering</summary>
+<details> <summary>⚙️ Backend Engineering</summary>
 
 * ASP.NET Core
 * RESTful API design
@@ -259,8 +212,7 @@ It supports short-link creation and management, ownership and guest-user flows, 
 
 </details>
 
-<details>
-<summary>🐳 Infrastructure & Deployment</summary>
+<details> <summary>🐳 Infrastructure & Deployment</summary>
 
 * Docker
 * Containerized services
@@ -345,21 +297,15 @@ At Prince Muqrin University, I lead a university Quran club, coordinating studen
 
 <div align="center">
 
-<a href="https://github.com/Mohammed-Abd-Al-majid">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abd-Al-majid&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</a>
+<a href="https://github.com/Mohammed-Abd-Al-majid">   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abd-Al-majid&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" /> </a>
 
-<a href="https://github.com/Mohammed-Abd-Al-majid">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abd-Al-majid&layout=compact&hide_border=true" alt="Top Languages" />
-</a>
+<a href="https://github.com/Mohammed-Abd-Al-majid">   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abd-Al-majid&layout=compact&hide_border=true" alt="Top Languages" /> </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/Mohammed-Abd-Al-majid">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Abd-Al-majid&hide_border=true" alt="GitHub Streak" />
-</a>
+<a href="https://github.com/Mohammed-Abd-Al-majid">   <img src="https://streak-stats.demolab.com?user=Mohammed-Abd-Al-majid&hide_border=true" alt="GitHub Streak" /> </a>
 
 </div>
 
@@ -369,17 +315,12 @@ At Prince Muqrin University, I lead a university Quran club, coordinating studen
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg">
+<picture>   <source     media="(prefers-color-scheme: dark)"     srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake-dark.svg">
 
-<img
- alt="GitHub contribution snake animation"
- src="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg"> </picture>
+<source  media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg">
+
+<img  src="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg"  alt="GitHub contribution snake animation">
+</picture>
 
 </div>
 
@@ -387,13 +328,7 @@ At Prince Muqrin University, I lead a university Quran club, coordinating studen
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Mohammed-Abd-Al-majid">GitHub</a>
-  ·
-  <a href="https://linkedin.com/in/mohammed-babiker-96b688433">LinkedIn</a>
-  ·
-  <a href="mailto:mohammed.abd.al.majid10@gmail.com">Email</a>
-</p>
+<p align="center">   <a href="https://github.com/Mohammed-Abd-Al-majid">GitHub</a>   ·   <a href="https://linkedin.com/in/mohammed-babiker-96b688433">LinkedIn</a>   ·   <a href="mailto:[mohammed.abd.al.majid10@gmail.com](mailto:mohammed.abd.al.majid10@gmail.com)">Email</a> </p>
 
 ---
 
