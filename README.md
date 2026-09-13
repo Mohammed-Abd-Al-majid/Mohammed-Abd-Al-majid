@@ -34,19 +34,20 @@ I’m particularly interested in systems where backend engineering meets **searc
 
 > **I don't just want to make software work — I want to understand how it works, why it works, and how to build it properly.**
 
-- 🎓 B.S. in Software Engineering — expected **2028**
-- 🏅 Dean's List / Distinguished Students
-- 🧠 **150+** algorithms and data-structure problems solved
-- 🔧 Backend-focused with **ASP.NET Core / .NET**
-- 🔎 Interested in **semantic search, hybrid retrieval, RAG, and Arabic NLP**
-- ☁️ Experience deploying applications with **Docker and Railway**
-- 🚀 Building and shipping my own software projects
+* 🎓 B.S. in Software Engineering — expected **2028**
+* 🏅 Dean's List / Distinguished Students
+* 🧠 **150+** algorithms and data-structure problems solved
+* 🔧 Backend-focused with **ASP.NET Core / .NET**
+* 🔎 Interested in **semantic search, hybrid retrieval, RAG, and Arabic NLP**
+* ☁️ Experience deploying applications with **Docker and Railway**
+* 🚀 Building and shipping my own software projects
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
@@ -56,6 +57,7 @@ I’m particularly interested in systems where backend engineering meets **searc
 </p>
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -64,6 +66,7 @@ I’m particularly interested in systems where backend engineering meets **searc
 </p>
 
 ### Data & Caching
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
@@ -73,6 +76,7 @@ I’m particularly interested in systems where backend engineering meets **searc
 </p>
 
 ### AI, Search & NLP
+
 <p>
   <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square" alt="Embeddings">
   <img src="https://img.shields.io/badge/Semantic_Search-6D28D9?style=flat-square" alt="Semantic Search">
@@ -85,6 +89,7 @@ I’m particularly interested in systems where backend engineering meets **searc
 </p>
 
 ### Engineering & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -131,16 +136,17 @@ The goal is always the same: understand the underlying engineering trade-offs an
 
 **Tathabbat** is a backend-focused Arabic Hadith retrieval and verification platform.
 
-It processes natural-language Arabic queries, performs Arabic normalization and AI-assisted query understanding, then creates validated search plans and retrieves relevant Hadith through hybrid information retrieval.
+It processes natural-language Arabic queries, performs Arabic normalization and AI-assisted query understanding, then creates validated search plans and retrieves relevant Hadith through information retrieval.
 
 **Highlights**
-- Arabic query understanding
-- Arabic text normalization
-- Lexical + semantic retrieval
-- Hybrid ranking
-- AI/LLM-assisted search planning
-- Integration with Dorar
-- Production deployment
+
+* Arabic query understanding
+* Arabic text normalization
+* Search planning
+* Hybrid retrieval
+* LLM-assisted search
+* Integration with Dorar
+* Production deployment
 
 **Stack:** `C#` `ASP.NET Core` `Arabic NLP` `Hybrid Retrieval` `Docker` `Railway` `LLM Integration`
 
@@ -155,10 +161,11 @@ It processes natural-language Arabic queries, performs Arabic normalization and 
 The system represents Quran and Tafsir independently while preserving their relationships, enabling semantic and hybrid search over the corpus.
 
 **Corpus**
-- 6,236 Quran verses
-- 1,911 Tafsir groups
-- 16,985 embedded documents
-- 1,024-dimensional BGE-M3 embeddings
+
+* 6,236 Quran verses
+* 1,911 Tafsir groups
+* 16,985 embedded documents
+* 1,024-dimensional BGE-M3 embeddings
 
 **Stack:** `C#` `ASP.NET Core` `Python` `BGE-M3` `Embeddings` `PostgreSQL` `pgvector` `Hybrid Retrieval` `Docker` `Railway`
 
@@ -171,13 +178,14 @@ The system represents Quran and Tafsir independently while preserving their rela
 It lets users describe a system in natural language and generate, validate, persist, edit, and transform database schemas into SQL and ERD-compatible structures.
 
 **Highlights**
-- AI-assisted schema generation
-- Canonical schema representation
-- Schema editing through natural-language instructions
-- User-specific schema management
-- JWT authentication
-- Four SQL dialects
-- PostgreSQL + JSONB persistence
+
+* AI-assisted schema generation
+* Canonical schema representation
+* Schema editing through natural-language instructions
+* User-specific schema management
+* JWT authentication
+* Four SQL dialects
+* PostgreSQL + JSONB persistence
 
 **Stack:** `C#` `ASP.NET Core` `PostgreSQL` `Npgsql` `JSONB` `JWT` `REST APIs` `LLM Integration`
 
@@ -192,13 +200,14 @@ It lets users describe a system in natural language and generate, validate, pers
 It supports short-link creation and management, ownership and guest-user flows, authenticated resource access, redirection, and caching for repeated requests.
 
 **Highlights**
-- URL shortening
-- Guest-user flows
-- JWT authentication
-- Ownership-aware resources
-- Redis caching
-- PostgreSQL persistence
-- Production deployment
+
+* URL shortening
+* Guest-user flows
+* JWT authentication
+* Ownership-aware resources
+* Redis caching
+* PostgreSQL persistence
+* Production deployment
 
 **Stack:** `C#` `ASP.NET Core` `PostgreSQL` `Redis` `JWT` `Docker` `Railway`
 
@@ -211,55 +220,55 @@ It supports short-link creation and management, ownership and guest-user flows, 
 <details>
 <summary>🔍 Search & Information Retrieval</summary>
 
-- Embeddings
-- Semantic search
-- Hybrid lexical + vector retrieval
-- Reranking
-- Vector databases
-- Arabic information retrieval
-- Retrieval pipelines
-- Search quality and relevance
+* Embeddings
+* Semantic search
+* Hybrid lexical + vector retrieval
+* Reranking
+* Vector databases
+* Arabic information retrieval
+* Retrieval pipelines
+* Search quality and relevance
 
 </details>
 
 <details>
 <summary>🤖 AI Engineering</summary>
 
-- LLM integration
-- Prompt engineering
-- Retrieval-Augmented Generation (RAG)
-- Structured AI outputs
-- AI-assisted backend workflows
-- Arabic NLP
-- Building practical AI features rather than AI demos
+* LLM integration
+* Prompt engineering
+* Retrieval-Augmented Generation (RAG)
+* Structured AI outputs
+* AI-assisted backend workflows
+* Arabic NLP
+* Building practical AI features rather than AI demos
 
 </details>
 
 <details>
 <summary>⚙️ Backend Engineering</summary>
 
-- ASP.NET Core
-- RESTful API design
-- Authentication and authorization
-- JWT
-- Database design
-- PostgreSQL
-- Redis caching
-- API integration
-- Production deployment
+* ASP.NET Core
+* RESTful API design
+* Authentication and authorization
+* JWT
+* Database design
+* PostgreSQL
+* Redis caching
+* API integration
+* Production deployment
 
 </details>
 
 <details>
 <summary>🐳 Infrastructure & Deployment</summary>
 
-- Docker
-- Containerized services
-- Reverse proxies
-- Linux environments
-- Git / GitHub workflows
-- Railway deployments
-- Understanding networking and application infrastructure
+* Docker
+* Containerized services
+* Reverse proxies
+* Linux environments
+* Git / GitHub workflows
+* Railway deployments
+* Understanding networking and application infrastructure
 
 </details>
 
@@ -287,15 +296,15 @@ Hardware
 
 That mindset is why I spend time studying topics such as:
 
-- .NET runtime and execution
-- HTTP and networking
-- Linux
-- Docker and container isolation
-- Databases and indexing
-- Caching
-- API architecture
-- Search systems
-- Distributed system fundamentals
+* .NET runtime and execution
+* HTTP and networking
+* Linux
+* Docker and container isolation
+* Databases and indexing
+* Caching
+* API architecture
+* Search systems
+* Distributed system fundamentals
 
 ---
 
@@ -305,12 +314,12 @@ I have solved **150+ algorithm and data-structure problems**, with a strong focu
 
 Areas include:
 
-- Data structures
-- Algorithms
-- Problem solving
-- Object-oriented programming
-- SQL / databases
-- Backend development
+* Data structures
+* Algorithms
+* Problem solving
+* Object-oriented programming
+* SQL / databases
+* Backend development
 
 ---
 
@@ -356,53 +365,23 @@ At Prince Muqrin University, I lead a university Quran club, coordinating studen
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg">
 
-<!-- Replace this image with a generated contribution snake if you enable the workflow below. -->
+<img
+ alt="GitHub contribution snake animation"
+ src="https://raw.githubusercontent.com/Mohammed-Abd-Al-majid/Mohammed-Abd-Al-majid/output/github-contribution-grid-snake.svg"> </picture>
 
 </div>
-
-<details>
-<summary>⚡ Enable the contribution snake</summary>
-
-Create a GitHub Actions workflow at:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Mohammed-Abd-Al-majid
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then reference the generated SVG from your Pages branch/repository as needed.
-
-</details>
 
 ---
 
